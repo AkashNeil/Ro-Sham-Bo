@@ -1,1 +1,1 @@
-# RoShamBo-v1.0
+# Ro Sham Bo

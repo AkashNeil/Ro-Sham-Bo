@@ -14,7 +14,6 @@ while True:
     player_choice = input()
     computer_choice = (1, 2, 3)
     computer_choice = random.choice(computer_choice)
-    print("-------------------------------------------------")
     
     if player_choice == 1 and computer_choice == 2:
         print("You choose rock, computer chooses paper!")

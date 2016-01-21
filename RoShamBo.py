@@ -9,7 +9,7 @@ score = 0
 computer_lives = 7
 
 while True:
-    print("-------------------------------------------------")
+    print("--------------------------------------------------")
     print("Enter 1 for rock, 2 for paper and 3 for scissors! Enter 0 to exit the game!")
     player_choice = input()
     computer_choice = (1, 2, 3)

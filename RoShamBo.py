@@ -4,9 +4,9 @@ lose = ("You lose!")
 win = ("You win!")
 draw = ("Draw!")
 
-player_lives = 5
+player_lives = 7
 score = 0
-computer_lives = 5
+computer_lives = 7
 
 while True:
     print("-----------------------------------------------------------")
